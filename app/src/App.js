@@ -1,21 +1,19 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import ImageCard from "./components/ImageCard";
+import "./App.css";
+import imageList from "./images.json";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
 
+const App = () => 
+<div>
+{imageList.map(image => (
+<ImageCard 
+
+key={image.id}
+image={image.image} 
+name={image.name} 
+/>
+
+))}
+</div>
 export default App;

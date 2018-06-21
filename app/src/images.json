@@ -1,50 +1,62 @@
 [
     {
         "id": 1,
+        "name": "Cartman",
         "image": "http://cdn3-www.comingsoon.net/assets/uploads/2017/08/1x01-Cartman-Gets-an-Anal-Probe-south-park-18556684-720-540.jpg"
     },
     {
         "id": 2,
+        "name": "Mr. President",
         "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fdanidiplacido%2Ffiles%2F2017%2F12%2Fsouth-park-s21e10-splatty-tomato_16x9_1080p.jpg"
     },
     {
         "id": 3,
+        "name": "Mr. Mackey",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapLGNot-YgWN0W7BQyMu4cBsqengGIp-d1-5UJZ7yIwiSyPAn"
     },
     {
         "id": 4,
+        "name": "Chef",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPua7Q47a8dCtGchQFUPYROOy7v7mEz-0Zao34qhdbVHMdlTT"
     },
     {
         "id": 5,
+        "name": "Towelie",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6i11SgToDXegz-Xu9ic_4ElhivfP8uXVtkJ5SF1SNQdSz-DEy5g"
     },
     {
         "id": 6,
+        "name": "Stan Marsh",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6hKZ8sBuLZtoK56D90sqaV1RqQvP2XM6Wa6c7VvoRq68p_xbWA"
     },
     {
         "id": 7,
+        "name": "PC Principal",
         "image": "http://i0.kym-cdn.com/photos/images/original/001/172/006/c70.png"
     },
     {
         "id": 8,
+        "name": "Randy Marsh",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9jVEB8D1dq2c8vpS5NULcsK2siGEajrxirA8e6S1kCHy1tINWg"
     },
     {
         "id": 9,
+        "name": "Uncle Jimbo and Ned",
         "image": "http://s3cf.recapguide.com/img/tv/119/1x3/South-Park-Season-1-Episode-3-7-2580.jpg"
     },
     {
         "id": 10,
+        "name": "Mr. Hanky the Xmas Poo",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlQKJW_HoVW3IMcOhEHNViuT3TNJF3GXvHQCKoj_64tzQ1DUc"
     },
     {
         "id": 11,
+        "name": "ManBearPig (Al Gore)",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFZfIpAal8BvLmZMdCFW3iGMiTwMHYLRuqd_jRLMZHO9VbtndoA"
     },
     {
         "id": 12,
+        "name": "Sheila Broflovski",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8OatYWSqSordKch6VKpbdmGF4eEAKY_tgAFjK4Gh6M7c-7FVQ"
     }
 ]
