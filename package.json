@@ -1,3 +1,5 @@
 {
-  "dependencies": {}
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
