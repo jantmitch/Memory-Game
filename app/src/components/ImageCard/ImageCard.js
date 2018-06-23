@@ -3,9 +3,9 @@ import './ImageCard.css';
 import images from '../../images.json';
 
 const ImageCard = props => (
-    <div className="card">
+    <div className="panel">
     
-      <div className="img-container">
+      <div className="container">
         <img className="image" alt={props.name} src={props.image} />
       </div>
       </div>
