@@ -9,12 +9,6 @@ class App extends Component {
     imageList
   };
 
-  shuffleImages = id => {
-    const imageCard = this.setState.imageList.onClick(imageList =>(id)
-    );
-    this.setState({ imageList });
-  };
-
   render() {
     return (
      
